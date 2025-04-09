@@ -1,1 +1,2 @@
-# CLASS-2
+# synchronousBallMovement
+Ball moving synchronously
